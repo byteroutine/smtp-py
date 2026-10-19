@@ -1,0 +1,14 @@
+SUBJECT: Hello from smtp
+BODY:
+Hi there,
+
+This message was composed in writemail.txt.
+Edit this file with your own subject and body,
+then run the smtp-py menu and choose the compose-file option.
+
+Lines under BODY: are sent as the plain-text version.
+
+HTML:
+<h1>Hi there,</h1>
+<p>This message was composed in <b>writemail.txt</b>.</p>
+<p>Everything under <b>HTML:</b> is sent as the HTML version of the email.</p>
