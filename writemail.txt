@@ -1,4 +1,4 @@
-SUBJECT: Hello from smtp
+SUBJECT: Hello from CVBinder
 BODY:
 Hi there,
 

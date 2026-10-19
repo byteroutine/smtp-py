@@ -3,7 +3,7 @@ requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "smtppy"
+name = "bytesmtp"
 dynamic = ["version"]
 description = "Send email from Python in one line. A tiny batteries-included SMTP client."
 readme = "README.md"

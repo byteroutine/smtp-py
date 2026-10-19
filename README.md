@@ -23,7 +23,7 @@ That's it. Credentials come from your `.env` file automatically.
 **Via pip:**
 
 ```bash
-pip install smtppy
+pip install bytesmtp
 ```
 
 **Via git clone:**
